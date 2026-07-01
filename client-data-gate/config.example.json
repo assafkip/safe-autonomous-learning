@@ -1,0 +1,8 @@
+{
+  "_comment": "Copy to config.json and fill in. tokens = exact client/product/person strings to never publish (matched case-insensitive, as substrings). codenames = distinctive identifiers matched as whole words. Paths/emails/URLs are caught structurally and on by default.",
+  "tokens": ["AcmeCorp", "Project Falcon", "Jane Doe"],
+  "codenames": ["Falcon_2026", "CLIENT_A"],
+  "check_paths": true,
+  "check_emails": true,
+  "check_urls": true
+}

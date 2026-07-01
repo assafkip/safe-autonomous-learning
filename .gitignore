@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+config.json
+.processed.json
+.job-watchdog-state.json
+/lessons/
+/held/
+/out/
